@@ -16,3 +16,5 @@ We analyzed many data points, and the most important category that was focused o
 
 # recommendations
 I would recommend to the organization that they should increase their sales by increasing the MRP of baking goods and health & hygiene products inorder to keep up with the rest of the other MRPs. This would then increase the organizations sales gradually. 
+
+The more accuarate your models are for sales predictions, the better you are able to understand what is effecting the models.

@@ -20,3 +20,9 @@ I would recommend to the organization that they should increase their sales by i
 The more accuarate your models are for sales predictions, the better you are able to understand what is effecting the models.
 
 https://docs.google.com/presentation/d/1XXHP4H1bLi1tkksHEMWW3hGpgnTOGx3vRrtTi6lU4xg/edit#slide=id.gea15e41966_0_28
+
+
+
+https://user-images.githubusercontent.com/86756311/131269745-e5afb9d6-5794-48d2-ac49-7ee5c75fd6b4.mp4
+
+
